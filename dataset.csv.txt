@@ -1,0 +1,6 @@
+review_id,user_id,product_id,rating,review_text,review_date
+1,101,201,5,Excellent product,2025-01-01
+2,101,202,5,Excellent product,2025-01-02
+3,102,201,1,Bad quality,2025-01-03
+4,103,203,5,Amazing,2025-01-04
+5,101,204,5,Excellent product,2025-01-05
