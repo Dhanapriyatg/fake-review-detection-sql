@@ -1,4 +1,4 @@
-# ->Fake Review Detection System
+# Fake Review Detection System
 
 This project uses SQL to detect fake product reviews.
 
