@@ -1,2 +1,12 @@
-# fake-review-detection-sql
-SQL-based system to detect fake product reviews
+# Fake Review Detection System
+
+This project uses SQL to detect fake product reviews.
+
+## Features
+- Detect duplicate reviews
+- Identify spam users
+- Analyze rating patterns
+
+## Tools
+- SQL
+- CSV dataset
