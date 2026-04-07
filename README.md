@@ -28,7 +28,7 @@ This project uses SQL to detect fake product reviews.
 - dataset.csv
 - README.md
 
-#->Output
+## ->Output
 
 <img width="305" height="132" alt="Screenshot 2026-04-07 200525" src="https://github.com/user-attachments/assets/510fb62f-b166-456f-b989-ab30acee42ea" />
 
