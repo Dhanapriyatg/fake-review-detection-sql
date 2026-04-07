@@ -17,6 +17,12 @@ This project uses SQL to detect fake product reviews.
 - COUNT()
 - Data Filtering
 
-## Future Improvements
+## ->Future Improvements
 - Add Power BI dashboard
 - Implement real-time data analysis
+
+## ->Project Structure
+- schema.sql
+- queries.sql
+- dataset.csv
+- README.md
