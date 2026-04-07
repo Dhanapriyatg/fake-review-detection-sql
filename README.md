@@ -29,4 +29,5 @@ This project uses SQL to detect fake product reviews.
 - README.md
 
 #->Output
+
 <img width="508" height="675" alt="Screenshot 2026-04-07 195949" src="https://github.com/user-attachments/assets/b3dfc723-b6d6-470a-a76f-5c78230b06bc" />
