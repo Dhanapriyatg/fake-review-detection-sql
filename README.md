@@ -11,12 +11,12 @@ This project uses SQL to detect fake product reviews.
 - SQL
 - CSV dataset
   
-## 🧠 SQL Concepts Used
+## SQL Concepts Used
 - GROUP BY
 - HAVING
 - COUNT()
 - Data Filtering
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add Power BI dashboard
 - Implement real-time data analysis
